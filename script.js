@@ -79,5 +79,6 @@ var btt = document.getElementById("backtotop"),
 }
 function displayMovie(movieId) {
     window.open('movieDetails.htm?movieId=' + movieId)
+   // window.location.href('movieDetails.htm?movieId=' + movieId)
 }
 

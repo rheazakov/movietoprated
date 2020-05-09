@@ -3,7 +3,7 @@
       {
           margin:0;
           padding:0;
-          /* font-family:Jost; */
+          font-family:Jost;
           align:center;
           background-color: #232931;
           width:100%;
@@ -255,7 +255,7 @@
       margin-left:60px;
       margin-top:60px;
       color:white;
-      /* font-family:Jost; */
+      font-family:Jost;
     }
 
     @media (max-width:768px)
@@ -285,7 +285,7 @@
     margin-inline-end: 0px;
     font-weight: 20;
     font-size:50px;
-    /* font-family:Jost; */
+    font-family:Jost;
     }
 
     .ch{
@@ -295,7 +295,7 @@
     }
 
     .container1{
-      /* font-family:Jost; */
+      font-family:Jost;
       font-size:15px;
       }
 
@@ -353,7 +353,7 @@
     display:inline-block;
     cursor:pointer;
     color:#ffffff;
-    /* font-family:Jost; */
+    font-family:Jost;
     font-size:15px;
     padding:16px 31px;
     text-decoration:none;
